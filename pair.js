@@ -51,24 +51,24 @@ router.get('/', async (req, res) => {
 				const MegaMds = await MegaMdEmpire.sendMessage(MegaMdEmpire.user.id, { document: sessionMegaMD, mimetype: `application/json`, fileName: `creds.json` });
 				
 await MegaMdEmpire.sendMessage(MegaMdEmpire.user.id, {
-  text: `> *ᴍᴇɢᴀ-ᴍᴅ sᴇssɪᴏɴ ɪᴅ ᴏʙᴛᴀɪɴᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ.*     
+  text: `> *ᴛᴋᴛ-ᴄʏʙᴇʀ-ᴛᴇᴄʜ-ʙᴏᴛ sᴇssɪᴏɴ ɪᴅ ᴏʙᴛᴀɪɴᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ.*     
 📁ᴜᴘʟᴏᴀᴅ ᴛʜᴇ ᴄʀᴇᴅs.ᴊsᴏɴ ғɪʟᴇ ᴘʀᴏᴠɪᴅᴇᴅ ɪɴ ʏᴏᴜʀ sᴇssɪᴏɴ ғᴏʟᴅᴇʀ. 
 
 _*🪀sᴛᴀʏ ᴛᴜɴᴇᴅ ғᴏʟʟᴏᴡ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ:*_ 
-> _https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w_
+> _https://whatsapp.com/channel/0029Vb5vbMM0LKZJi9k4ED1a_
 
 _*ʀᴇᴀᴄʜ ᴍᴇ ᴏɴ ᴍʏ  ᴛᴇʟᴇɢʀᴀᴍ:*_  
-> _t.me/LordMega0_
+> _t.me/Tafadzwatkt_
 
 
-> 🫩ʟᴀsᴛʟʏ ᴅᴏ ɴᴏᴛ sʜᴀʀᴇ ʏᴏᴜʀ sᴇssɪᴏɴ ɪᴅ ᴏʀ ᴄʀᴇᴅs.ᴊsᴏɴ ғɪʟᴇ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ ʙʀᴏ ᴀɴᴅ ғᴏʀ ᴀɴʏ ʜᴇʟᴘ _*ᴅᴍ ᴏᴡɴᴇʀ https://wa.me/256783991705*_  `,
+> 🫩ʟᴀsᴛʟʏ ᴅᴏ ɴᴏᴛ sʜᴀʀᴇ ʏᴏᴜʀ sᴇssɪᴏɴ ɪᴅ ᴏʀ ᴄʀᴇᴅs.ᴊsᴏɴ ғɪʟᴇ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ ʙʀᴏ ᴀɴᴅ ғᴏʀ ᴀɴʏ ʜᴇʟᴘ _*ᴅᴍ ᴏᴡɴᴇʀ https://wa.me/263718095555*_  `,
 
   contextInfo: {
     externalAdReply: {
       title: "Successfully Generated Session",
-      body: "Mega-MD Session Generator 1",
-      thumbnailUrl: "https://files.catbox.moe/c29z2z.jpg",
-      sourceUrl: "https://whatsapp.com/channel/0029Vb6covl05MUWlqZdHI2w",
+      body: "TKT-CYBER-TECH BOT",
+      thumbnailUrl: "https://files.catbox.moe/vnu745.png",
+      sourceUrl: "https://whatsapp.com/channel/0029Vb5vbMM0LKZJi9k4ED1a",
       mediaType: 1,
       renderLargerThumbnail: true,
       showAdAttribution: true
